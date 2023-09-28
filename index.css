@@ -1,0 +1,14 @@
+#table_candidates {
+ display: flex;
+}
+
+ul {
+ display: flex;
+ flex-wrap: wrap;
+ list-style-type: none;
+}
+
+li {
+ border: solid 1px black;
+ margin: 1rem;
+}
